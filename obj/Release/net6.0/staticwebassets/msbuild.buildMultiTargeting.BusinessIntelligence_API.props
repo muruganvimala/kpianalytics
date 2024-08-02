@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BusinessIntelligence_API.props" />
+</Project>

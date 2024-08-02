@@ -1,0 +1,602 @@
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\appsettings.Development.json
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\appsettings.json
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.exe
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.deps.json
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.runtimeconfig.json
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.pdb
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Humanizer.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.AssemblyReference.cache
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfoInputs.cache
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfo.cs
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CoreCompileInputs.cache
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.BusinessIntelligence_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.build.BusinessIntelligence_API.props
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BusinessIntelligence_API.props
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BusinessIntelligence_API.props
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\scopedcss\bundle\BusinessIntelligence_API.styles.css
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CopyComplete
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\refint\BusinessIntelligence_API.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.pdb
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.genruntimeconfig.cache
+C:\Users\2584\source\repos\BusinessIntelligence_API\obj\Release\net6.0\ref\BusinessIntelligence_API.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\2584\source\repos\BusinessIntelligence_API\bin\Release\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\appsettings.Development.json
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\appsettings.json
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.exe
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.deps.json
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.runtimeconfig.json
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.pdb
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Humanizer.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.AssemblyReference.cache
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfoInputs.cache
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfo.cs
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CoreCompileInputs.cache
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.BusinessIntelligence_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.build.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.pack.json
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.build.json
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.development.json
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\scopedcss\bundle\BusinessIntelligence_API.styles.css
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CopyComplete
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\refint\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.pdb
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.genruntimeconfig.cache
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\obj\Release\net6.0\ref\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.Collection.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Ref\web.config
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\System.Text.Json.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win7-x64\native\sni.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win7-x86\native\sni.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Ref\web.config
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\appsettings.Development.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\appsettings.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.exe
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.deps.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.runtimeconfig.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.pdb
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.Collection.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Humanizer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Text.Json.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win7-x64\native\sni.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win7-x86\native\sni.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.AssemblyReference.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfoInputs.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfo.cs
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CoreCompileInputs.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.BusinessIntelligence_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.build.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.pack.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.build.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.development.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\scopedcss\bundle\BusinessIntelligence_API.styles.css
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CopyComplete
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\refint\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.pdb
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.genruntimeconfig.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\obj\Release\net6.0\ref\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\EPPlus.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\BusinessIntelligence_API\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Ref\web.config
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\appsettings.Development.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\appsettings.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.exe
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.deps.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.runtimeconfig.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\BusinessIntelligence_API.pdb
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.Collection.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\EPPlus.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Humanizer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Security.Permissions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Text.Json.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win7-x64\native\sni.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win7-x86\native\sni.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.AssemblyReference.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfoInputs.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfo.cs
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CoreCompileInputs.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.BusinessIntelligence_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.build.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BusinessIntelligence_API.props
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.pack.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.build.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\staticwebassets.development.json
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\scopedcss\bundle\BusinessIntelligence_API.styles.css
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.csproj.CopyComplete
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\refint\BusinessIntelligence_API.dll
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.pdb
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\BusinessIntelligence_API.genruntimeconfig.cache
+D:\Techset\Code\Project\KPI Data\Code\Recover\Testing\BusinessIntelligence_API\obj\Release\net6.0\ref\BusinessIntelligence_API.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Ref\web.config
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\appsettings.Development.json
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\appsettings.json
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\BusinessIntelligence_API.exe
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\BusinessIntelligence_API.deps.json
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\BusinessIntelligence_API.runtimeconfig.json
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\BusinessIntelligence_API.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\BusinessIntelligence_API.pdb
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\AutoMapper.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\AutoMapper.Collection.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\EPPlus.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Humanizer.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Drawing.Common.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Security.Permissions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Text.Json.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win7-x64\native\sni.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win7-x86\native\sni.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.csproj.AssemblyReference.cache
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfoInputs.cache
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfo.cs
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.csproj.CoreCompileInputs.cache
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cs
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cache
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\staticwebassets\msbuild.BusinessIntelligence_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\staticwebassets\msbuild.build.BusinessIntelligence_API.props
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BusinessIntelligence_API.props
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BusinessIntelligence_API.props
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\staticwebassets.pack.json
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\staticwebassets.build.json
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\staticwebassets.development.json
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\scopedcss\bundle\BusinessIntelligence_API.styles.css
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.csproj.CopyComplete
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\refint\BusinessIntelligence_API.dll
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.pdb
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\BusinessIntelligence_API.genruntimeconfig.cache
+D:\ToGitLab\nSight_API\BusinessIntelligence_API\nsight_api\obj\Release\net6.0\ref\BusinessIntelligence_API.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Ref\web.config
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\appsettings.Development.json
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\appsettings.json
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\BusinessIntelligence_API.exe
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\BusinessIntelligence_API.deps.json
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\BusinessIntelligence_API.runtimeconfig.json
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\BusinessIntelligence_API.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\BusinessIntelligence_API.pdb
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\AutoMapper.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\AutoMapper.Collection.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\EPPlus.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Humanizer.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Logging.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Options.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Identity.Client.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.OpenApi.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Newtonsoft.Json.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.AspNetCore.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Extensions.Hosting.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Extensions.Logging.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Formatting.Compact.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Settings.Configuration.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Sinks.Console.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Sinks.Debug.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Sinks.File.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Sinks.MSSqlServer.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Serilog.Sinks.PeriodicBatching.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Drawing.Common.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Runtime.Caching.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Security.Permissions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Text.Encodings.Web.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Text.Json.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Windows.Extensions.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win7-x64\native\sni.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win7-x86\native\sni.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\GitSource\nsight_api-QA\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.csproj.AssemblyReference.cache
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfoInputs.cache
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.AssemblyInfo.cs
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.csproj.CoreCompileInputs.cache
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cs
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.MvcApplicationPartsAssemblyInfo.cache
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\staticwebassets\msbuild.BusinessIntelligence_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\staticwebassets\msbuild.build.BusinessIntelligence_API.props
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.BusinessIntelligence_API.props
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.BusinessIntelligence_API.props
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\staticwebassets.pack.json
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\staticwebassets.build.json
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\staticwebassets.development.json
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\scopedcss\bundle\BusinessIntelligence_API.styles.css
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.csproj.CopyComplete
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.dll
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\refint\BusinessIntelligence_API.dll
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.pdb
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\BusinessIntelligence_API.genruntimeconfig.cache
+D:\GitSource\nsight_api-QA\obj\Release\net6.0\ref\BusinessIntelligence_API.dll

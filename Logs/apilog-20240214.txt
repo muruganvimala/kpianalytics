@@ -1,0 +1,10 @@
+2024-02-14 20:10:40.802 +05:30 [ERR] An error occurred while processing the request for role Admin 3.
+API Details: {"ActionId":"95f4b775-3c72-48c9-b6a2-f8313ed6d023","ActionName":"BusinessIntelligence_API.Controllers.RoleMaterController.AllRoleMenuById (BusinessIntelligence_API)","RequestId":"0HN1DDBEPCIIQ:00000004","RequestPath":"/Rolemaster/AllRoleMenuById/Admin%203","ConnectionId":"0HN1DDBEPCIIQ"}
+System.InvalidOperationException: Role Admin 3 not found in BiRoleMasters table.
+   at BusinessIntelligence_API.Repository.RoleRepository.GetRoleMenuByIdRequestsAsync(String roleName) in D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\Repository\RoleRepository.cs:line 162
+   at BusinessIntelligence_API.Controllers.RoleMaterController.AllRoleMenuById(String rolename) in D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\Controllers\RoleMaterController.cs:line 166
+2024-02-14 20:24:51.467 +05:30 [ERR] An error occurred while processing the request for role Admin 3.
+API Details: {"ActionId":"2cb8a866-533d-452c-ae40-0b5aaab9f68d","ActionName":"BusinessIntelligence_API.Controllers.RoleMaterController.AllRoleMenuById (BusinessIntelligence_API)","RequestId":"0HN1DDJF2801V:00000002","RequestPath":"/Rolemaster/AllRoleMenuById/Admin%203","ConnectionId":"0HN1DDJF2801V"}
+System.InvalidOperationException: Role Admin 3 not found in BiRoleMasters table.
+   at BusinessIntelligence_API.Repository.RoleRepository.GetRoleMenuByIdRequestsAsync(String roleName) in D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\Repository\RoleRepository.cs:line 162
+   at BusinessIntelligence_API.Controllers.RoleMaterController.AllRoleMenuById(String rolename) in D:\Techset\Code\Project\KPI Data\Code\BusinessIntelligence_API\Controllers\RoleMaterController.cs:line 166

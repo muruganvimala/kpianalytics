@@ -1,0 +1,73 @@
+﻿
+dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;Initial Catalog=TestProjectManagement;Integrated Security=False;User Id=devsesame;Password=$Dev12345
+
+api error solve:
+<modules runAllManagedModulesForAllRequests="false">
+    <remove name="WebDAVModule" />
+  </modules>
+
+  db code:
+  dotnet ef database update
+
+  DB:
+Scaffold-DbContext "Server=10.0.0.234;User ID=smart;Password=jtstest123;Database=JTS;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+update DB:
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force
+
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -t BiMenuInventory -force
+
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -t Bi_ParentMenu -force
+
+
+Bi_PublisherConfig
+
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpide vapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models-Context YourDbContext -Force
+
+latest code table update:*****************
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Tables Bi_OtherCost
+
+override:
+dotnet ef dbcontext scaffold "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -o Models -t Bi_OtherCost --force
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -t Bi_OtherCost -force
+
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Tables Bi_CustomerData
+
+Sp:
+Scaffold-DbContext "Server=dev-test-editgenie.ctrglcosg13x.ap-south-1.rds.amazonaws.com;User ID=kpidevapp;Password=Ytrew@18Dec23;Database=KPIAnalyticsDev;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Tables SSP_BIReport_Detailed
+
+
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+
+
+https://pictogrammers.github.io/@mdi/font/2.0.46/
+
+logo:
+https://designs.ai/logomaker/start/create?company_name=nova
+
+UAT:setx ASPNETCORE_ENVIRONMENT "UAT"
+setx ASPNETCORE_ENVIRONMENT "Production"
+
+<location path="staging.site.com">
+  <system.webServer>
+    <aspNetCore>
+      <environmentVariables>
+        <environmentVariable name="ASPNETCORE_ENVIRONMENT" value="Staging" />
+      </environmentVariables>
+    </aspNetCore>
+  </system.webServer>
+</location>
+<location path="production.site.com">
+  <system.webServer>
+    <aspNetCore>
+      <environmentVariables>
+        <environmentVariable name="ASPNETCORE_ENVIRONMENT" value="Production" />
+      </environmentVariables>
+    </aspNetCore>
+  </system.webServer>
+</location>
+
+dotnet publish -c Debug -r win-x64 /p:EnvironmentName=Production
+
+dotnet publish -c Debug -r win-x64 /p:EnvironmentName=UAT
